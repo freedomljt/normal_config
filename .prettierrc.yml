@@ -1,0 +1,6 @@
+singleQuote: true
+printWidth: 200
+trailingComma: es5
+endOfLine: auto
+semi: true
+arrowParens: avoid
